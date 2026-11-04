@@ -1,0 +1,39 @@
+{
+  "cv": {
+    "file": "assets/documents/Awwad_Hassan_Awwad_CV.pdf",
+    "downloadName": "Awwad_Hassan_Awwad_CV.pdf",
+    "provided": false
+  },
+  "certificates": [
+    {
+      "organization": "Information Technology Institute (ITI)",
+      "program": "ASP.NET Core Fundamentals",
+      "detail": "60-hour training · MVC, Entity Framework & LINQ, and ASP.NET Core Web API",
+      "date": "14–26 September 2025",
+      "file": "public/images/certificates/iti-aspnet-core-fundamentals.jpeg",
+      "preview": "public/images/certificates/iti-aspnet-core-fundamentals.jpeg",
+      "provided": true,
+      "format": "IMAGE"
+    },
+    {
+      "organization": "Cairo Water Company",
+      "program": "Summer Training Program",
+      "detail": "Server administration, networks, and applied electronic and AI systems",
+      "date": "18 July–6 August 2026",
+      "file": "public/images/certificates/cairo-water-company-summer-training.pdf",
+      "preview": "public/images/certificates/cairo-water-preview-1.png",
+      "provided": true,
+      "format": "PDF"
+    },
+    {
+      "organization": "InnovEgypt",
+      "program": "Certificate of Acknowledgement",
+      "detail": "45-hour training course and a final project for a potential startup",
+      "date": "September 2026",
+      "file": "public/images/certificates/innovegypt-certificate.pdf",
+      "preview": "public/images/certificates/innovegypt-preview-1.png",
+      "provided": true,
+      "format": "PDF"
+    }
+  ]
+}
