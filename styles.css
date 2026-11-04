@@ -45,3 +45,6 @@ html{overflow-x:clip}
 
 /* About section focus points and engineering statement */
 .about-focus{margin-top:24px}.about-focus-label{margin:0 0 11px!important;color:var(--cyan)!important;font:600 10px/1.4 var(--mono);letter-spacing:.14em}.about-focus-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.about-focus-grid article{padding:14px 13px;border:1px solid var(--line);border-radius:12px;background:rgba(17,31,43,.52);transition:border-color .25s ease,transform .25s ease}.about-focus-grid article:hover{border-color:rgba(101,213,241,.42);transform:translateY(-2px)}.about-focus-grid h3{margin:0 0 7px;color:#dce7ed;font:600 10px/1.45 var(--mono);letter-spacing:.035em}.about-focus-grid article p{margin:0;color:#97a6b4;font-size:12px;line-height:1.65}.about-engineering-statement{margin:20px 0 0;padding:13px 16px;border-left:2px solid var(--cyan);color:#c4d3dc;background:linear-gradient(90deg,rgba(101,213,241,.08),transparent);font:italic 14px/1.7 var(--display)}@media(max-width:900px){.about-focus-grid{grid-template-columns:1fr}.about-focus-grid article{padding:12px 14px}}
+
+.documents-compact .cv-download{margin-top:16px}
+

@@ -18,10 +18,10 @@ Upload the project files to a static host such as GitHub Pages, Netlify, or Clou
 
 ## Add the real documents and portrait
 
-The supplied workspace includes Awwad’s portrait and the original EZZO application screenshots. The CV, training certificates, and individual project repository URLs were not supplied, so the site marks those items as unavailable and does not fabricate them.
+The supplied workspace includes Awwad’s portrait and the original EZZO application screenshots. The CV and training certificates are included in the site. Individual project repository URLs were not supplied, so the portfolio does not fabricate them.
 
 - The supplied portrait is integrated from `assets/awwad-profile.png` in the hero. Replace that file to update the photo, keeping the same path and dimensions in the image markup.
-- Put the CV at `assets/documents/Awwad_Hassan_Awwad_CV.pdf`. Change `provided` to `true` in `documents.json` and replace the “CV coming soon” link with a download link using `download="Awwad_Hassan_Awwad_CV.pdf"`.
+- The CV is available at `assets/documents/Awwad_Hassan_Awwad_CV.pdf` and linked from the hero and Curriculum Vitae section.
 - Add certificate PDFs or images under `assets/documents/` and update `documents.json` with their paths, dates, and organizations. The current gallery intentionally reports no files until source documents are supplied.
 - The EZZO case study uses the supplied original screenshots in `assets/EZZO/`; the other projects keep clearly labeled conceptual previews until their real screenshots are supplied.
 - Replace each “Repository link to be added” placeholder with the verified repository URL when available. No individual project URL was supplied.
